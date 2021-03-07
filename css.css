@@ -1,0 +1,29 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Merriweather Sans', sans-serif;
+ }
+ .carousel-item {
+   background-position: center!important;
+   background-size: cover!important;
+ }
+ .carousel-item img{
+   height: 100vh!important;
+   width: 100vw!important;
+ }
+ .container-fluid{
+   width: 90%!important;
+ }
+ .about-img{
+   height: 350px!important;
+   width: 100%;
+   border-radius: 130px 150px 0px 200px;
+ }
+ .service_sec{
+   background: rgb(230, 230, 230);
+
+ }
+ .navbar-brand{
+   font-size: 1.9rem!important;
+ }
